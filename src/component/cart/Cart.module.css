@@ -1,0 +1,29 @@
+.cart {
+    padding: 1rem;
+  }
+  
+  .cart-container {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 1rem;
+  }
+  
+  .cart-container p {
+    margin-bottom: 1rem;
+  }
+  
+  .total {
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 1rem;
+    margin-left: 40px;
+  }
+  
+.paymentButton{
+  margin-left: 40px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(95, 224, 95);
+  cursor: pointer;
+} 

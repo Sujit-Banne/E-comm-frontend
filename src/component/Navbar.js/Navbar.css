@@ -1,0 +1,37 @@
+.navbar {
+  background-color:white;
+  padding: 10px;
+  border-bottom: 1px solid rgb(227, 222, 222);
+  box-shadow: -5px -7px 20px;
+}
+
+.navbar-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-item {
+  display: flex;
+  align-items: center;
+  margin-right: 2px;
+}
+
+.logo {
+  width: 100px;
+  height: 60px;
+  margin-right: 10px;
+}
+
+.navbar-item a {
+  text-decoration: none;
+  color: #000000;
+  margin-right: 40px;
+  font-weight: bold;
+}
+
+.navbar-item a:hover {
+  color: #646363;
+}
